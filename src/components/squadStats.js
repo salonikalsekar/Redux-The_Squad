@@ -26,7 +26,7 @@ class SquadStats extends Component{
     render(){
         return(
             <div>
-                <h4>Statistics</h4>
+                <h4>STATISTICS:</h4>
                 <ul className="list-group">
                     <li className="list-group-item">
                         <b>TOTAL STRENGTH:</b> { this.strength()}
